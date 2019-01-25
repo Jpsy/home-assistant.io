@@ -111,7 +111,7 @@ knx:
   - type: 'humidity'
     entity_id: 'sensor.dark_sky_humidity'
     address: '0/1/11'
-  - type: 'temperature'
+  - type: 'DPT-9'
     entity_id: 'sensor.dark_sky_pressure'
     address: '0/1/12'
   - type: 'DPT-9'
